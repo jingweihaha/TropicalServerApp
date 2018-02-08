@@ -1,0 +1,16 @@
+C:\Users\jingw\Desktop\TropicalServerApp\Email\bin\Debug\Email.exe.config
+C:\Users\jingw\Desktop\TropicalServerApp\Email\bin\Debug\Email.exe
+C:\Users\jingw\Desktop\TropicalServerApp\Email\bin\Debug\Email.pdb
+C:\Users\jingw\Desktop\TropicalServerApp\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\jingw\Desktop\TropicalServerApp\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\jingw\Desktop\TropicalServerApp\Email\obj\Debug\Email.exe
+C:\Users\jingw\Desktop\TropicalServerApp\Email\obj\Debug\Email.pdb
+C:\Users\jingw\Desktop\TropicalServerApp\Email\bin\Debug\EASendMail45.dll
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\bin\Debug\Email.exe.config
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\bin\Debug\Email.exe
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\bin\Debug\Email.pdb
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\bin\Debug\EASendMail45.dll
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\obj\Debug\Email.exe
+C:\Users\jingw\Desktop\New\TropicalServerApp\Email\obj\Debug\Email.pdb

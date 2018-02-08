@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "AutoComplete";
+}
+
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/jquery-1.12.4.js">
+    </script>
+    <script src="~/Scripts/jquery-ui.js">
+        $(document).ready(function () {
+            $('t1').autocomplete()
+        });
+    </script>
+
+    }
+
+<h2>AutoComplete</h2>
+
+
+<input type="text" id="t1" />
+
+
